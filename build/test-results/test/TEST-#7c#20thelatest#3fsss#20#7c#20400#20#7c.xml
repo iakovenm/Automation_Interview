@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="| thelatest?sss | 400 |" tests="3" skipped="1" failures="0" errors="0" timestamp="2021-03-21T22:41:22" hostname="DESKTOP-1QP077E" time="0.001">
+  <properties/>
+  <testcase name="When user calls &quot;thelatest?sss&quot;" classname="| thelatest?sss | 400 |" time="0.0"/>
+  <testcase name="Then server return response with a status &quot;400&quot;" classname="| thelatest?sss | 400 |" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="classMethod" classname="| thelatest?sss | 400 |" time="0.228"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

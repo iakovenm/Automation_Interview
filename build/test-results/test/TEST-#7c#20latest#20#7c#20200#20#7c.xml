@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="| latest | 200 |" tests="3" skipped="1" failures="0" errors="0" timestamp="2021-03-21T22:41:21" hostname="DESKTOP-1QP077E" time="0.016">
+  <properties/>
+  <testcase name="When user calls &quot;latest&quot;" classname="| latest | 200 |" time="0.002"/>
+  <testcase name="Then server return response with a status &quot;200&quot;" classname="| latest | 200 |" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="classMethod" classname="| latest | 200 |" time="2.534"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

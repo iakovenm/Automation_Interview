@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="| 2010-01-12?base=USD&amp;symbols=GBP | USD | GBP |" tests="3" skipped="1" failures="0" errors="0" timestamp="2021-03-21T22:41:24" hostname="DESKTOP-1QP077E" time="0.001">
+  <properties/>
+  <testcase name="When user calls &quot;2010-01-12?base=USD&amp;symbols=GBP&quot;" classname="| 2010-01-12?base=USD&amp;symbols=GBP | USD | GBP |" time="0.0"/>
+  <testcase name="Then server return response with correct &quot;USD&quot;, &quot;GBP&quot;" classname="| 2010-01-12?base=USD&amp;symbols=GBP | USD | GBP |" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="classMethod" classname="| 2010-01-12?base=USD&amp;symbols=GBP | USD | GBP |" time="0.052"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

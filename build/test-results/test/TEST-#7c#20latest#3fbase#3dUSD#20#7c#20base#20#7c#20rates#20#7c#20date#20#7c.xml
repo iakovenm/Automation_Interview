@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="| latest?base=USD | base | rates | date |" tests="3" skipped="1" failures="0" errors="0" timestamp="2021-03-21T22:41:24" hostname="DESKTOP-1QP077E" time="0.0">
+  <properties/>
+  <testcase name="When user calls &quot;latest?base=USD&quot;" classname="| latest?base=USD | base | rates | date |" time="0.0"/>
+  <testcase name="Then server return response that includes fields &quot;base&quot;, &quot;rates&quot;,&quot;date&quot;" classname="| latest?base=USD | base | rates | date |" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="classMethod" classname="| latest?base=USD | base | rates | date |" time="0.05"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
