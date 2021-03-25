@@ -49,5 +49,6 @@ public class StepDefinition {
     public void assertResponseDate(String date) {
         Assert.assertEquals(this.response.path("date").toString(), date);
     }
+
 }
 

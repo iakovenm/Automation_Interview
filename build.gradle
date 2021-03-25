@@ -5,22 +5,10 @@ repositories {
 }
 dependencies {
     implementation 'com.google.code.gson:gson:2.8.6'
-//    implementation 'org.apache.httpcomponents:httpclient:4.5.10'
-//    implementation 'org.apache.httpcomponents:fluent-hc:4.5.10'
-//    implementation 'com.jayway.restassured:rest-assured:2.9.0'
     implementation 'io.rest-assured:rest-assured:4.3.3'
-//    implementation 'io.cucumber:cucumber-gherkin:6.10.2'
-//    implementation 'io.cucumber:cucumber-plugin:6.10.2'
-//    implementation 'io.cucumber:cucumber-junit:6.10.2'
-//    implementation 'io.cucumber:cucumber-jvm:6.10.2'
-    //implementation 'org.jbehave:jbehave-core:4.8.3'
-//    implementation 'de.unkrig.commons:commons-io:1.2.15'
     implementation 'junit:junit:4.13.2'
-//    implementation 'io.cucumber:cucumber-testng:6.10.2'
-//    implementation 'io.cucumber:cucumber-java:6.10.2'
     implementation group: 'info.cukes', name: 'cucumber-java', version: '1.2.5'
-    // https://mvnrepository.com/artifact/info.cukes/cucumber-junit
     testImplementation group: 'info.cukes', name: 'cucumber-junit', version: '1.2.5'
-
-
+    implementation 'com.codeborne:selenide:5.20.0'
+    implementation 'ru.yandex.qatools.allure:allure-java-annotations:1.5.4'
 }
